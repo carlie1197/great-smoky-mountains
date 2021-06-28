@@ -1,1 +1,2 @@
-# mining_sites
+# great-smoky-mountains-trails
+
